@@ -8,5 +8,6 @@ namespace Ejemplo.Plugin
 {
     public class Class1
     {
+        // Acá va la lógica del código
     }
 }
