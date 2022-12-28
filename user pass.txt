@@ -1,0 +1,11 @@
+User: A_EZELLE01
+Pass: -AU05v-<uC<W
+
+
+app password: wpvzdpdwyfjnxbzt
+
+
+D365 Environment:
+
+Prod: https://tmf-group.crm4.dynamics.com/
+
